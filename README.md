@@ -107,25 +107,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🌍 TravelX — Tourism Platform
-
-### Features
-
-- 🌎 Explore tourist destinations
-- 📅 Trip planning
-- 🏨 Booking management
-- 📱 Fully responsive interface
-
-**Tech Stack**
-
-- Java
-- React.js
-- MySQL
-
----
-
 ## 📈 FinMark — Finance & Price Analysis Platform
 
 ### Features
